@@ -1,7 +1,7 @@
 # Como configurar minha chave pix?
 
 ![config-pix](../img/ima-como-conf-sua-chave.png)
-**Figura II:** Confugurando sua chave Pix.
+**Figura II:** Configurando sua chave Pix.
 
 ----
 
@@ -11,6 +11,7 @@ Configurar uma chave Pix é um processo **simples e rápido**, que pode ser feit
 ## Passo a passo
 
 ![pass-config-pix](/img/pass-config-pix.png)
+**Figura III:** Passos para configuração da sua chave Pix.
 
 **1. Acesse o Aplicativo do Banco**
 
@@ -35,7 +36,10 @@ Após escolher e inserir a chave desejada, o banco pode solicitar uma confirmaç
 Verifique a chave que você escolheu e confirme o cadastro.
 
 
-O cadastro foi concluído. Assim que confirmar, a chave Pix estará registrada e pronta para uso. Você poderá visualizar suas chaves cadastradas dentro da mesma seção do Pix no aplicativo.
+**5. O cadastro foi concluído.**
+
+Assim que confirmar, a chave Pix estará registrada e pronta para uso. Você poderá visualizar suas chaves cadastradas dentro da mesma seção do Pix no aplicativo.
+
 
 
 > **Para gerenciar suas chaves**

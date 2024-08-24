@@ -2,7 +2,7 @@
 
 
 ![pix-e-protecao](../img/ima-protecao-pix.png)
-**Figura III:** Seu pix protegido.
+**Figura IV:** Seu pix protegido.
 
 ----
 
