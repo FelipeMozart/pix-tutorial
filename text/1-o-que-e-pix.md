@@ -1,8 +1,10 @@
 # O que é Pix?
------
-![o-que-e-pix](../img/ima-o-que-e-pix.png)
 
-Aqui, você vai conhecer sobre o conceito e os benefícios do pagamento via Pix.
+![o-que-e-pix](../img/ima-o-que-e-pix.png)
+**Figura I:** Descubra o que é o Pix.
+
+
+-----
 
 ##  Conceito
 

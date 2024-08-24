@@ -1,9 +1,10 @@
 # Pix e Segurança Digital
----
+
+
 ![pix-e-protecao](../img/ima-protecao-pix.png)
 **Figura III:** Seu pix protegido.
 
-
+----
 
 A segurança e a prevenção de fraudes são aspectos necessários quando se trata do uso do Pix, dada a natureza instantânea e digital das transações. Aqui estão os principais pontos a considerar:
 
