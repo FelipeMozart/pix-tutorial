@@ -2,7 +2,7 @@
 
 
 ![config-pix](../img/ima-como-conf-sua-chave.png)
-**Figura II:** Configurando sua chave Pix. _Fonte: canva.com_
+**Figura III:** Configurando sua chave Pix. _Fonte: canva.com_
 
 ----
 
@@ -12,7 +12,7 @@ Configurar uma chave Pix é um processo **simples e rápido**, que pode ser feit
 ## Passo a passo
 
 ![pass-config-pix](/img/pass-config-pix.png)
-**Figura III:** Passos para configuração da sua chave Pix.
+**Figura IV:** Passos para configuração da sua chave Pix.
 
 _Fonte: do autor._
 

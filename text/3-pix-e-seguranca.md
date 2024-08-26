@@ -2,7 +2,7 @@
 
 
 ![pix-e-protecao](../img/ima-protecao-pix.png)
-**Figura IV:** Seu pix protegido.
+**Figura V:** Seu pix protegido.
 _Fonte: canva.com_
 
 ----

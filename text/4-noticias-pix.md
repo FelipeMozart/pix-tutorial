@@ -1,7 +1,7 @@
 # Acompanhe as últimas notícias sobre o Pix
 
 ![pix-e-protecao](/img/ima-noticia-pix.png)
-**Figura V:** Notícias sobre pix.
+**Figura VI:** Notícias sobre pix.
 _Fonte: canva.com_
 
 - ['Golpes do PIX' podem causar perdas de R$ 3 bilhões até 2027; saiba como se proteger
