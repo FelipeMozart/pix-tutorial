@@ -54,3 +54,9 @@ Assim que confirmar, a chave Pix estará registrada e pronta para uso. Você pod
 > 
 > Se precisar, você pode excluir ou alterar suas chaves Pix a qualquer momento através do aplicativo do banco.
 > É possível cadastrar até 5 chaves por conta, para pessoa física, e até 20 para pessoa jurídica.
+
+
+
+Entenda mais sobre segurança no pix no próximo artigo:
+
+- [Pix e segurança digital](/text/3-pix-e-seguranca.md)

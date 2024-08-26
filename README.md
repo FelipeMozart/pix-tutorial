@@ -14,3 +14,4 @@ Navegue pelo índice:
 - [O que é Pix?](/text/1-o-que-e-pix.md)
 - [Como configurar sua chave?](/text/2-como-configurar-sua-chave.md)
 - [Pix e segurança digital](/text/3-pix-e-seguranca.md)
+- [Acompanhe notícias sobre o pix](/text/4-noticias-pix.md)

@@ -39,12 +39,14 @@ Conheça mais sobre o Pix, [leia esta matéria do Banco Central](https://www.bcb
 ### Limites e tarifas
 
 **Limites de Transferência:** cada banco pode estabelecer limites diários ou por transação para o Pix, dependendo do perfil do cliente. Esses limites podem ser ajustados pelo próprio cliente através do aplicativo do banco;
+
 **Tarifas para Empresas:** para pessoas físicas, o Pix é gratuito na maioria das situações. No entanto, empresas podem ser cobradas por algumas transações, como o recebimento de vendas.
 
 
 ### Uso do pix em compras e serviços
 
 **Pagamentos em Estabelecimentos:** muitos comércios aceitam Pix como forma de pagamento. Basta escanear um QR code fornecido pelo estabelecimento e confirmar o valor;
+
 **Serviços Públicos:** o Pix também pode ser usado para pagar impostos, contas de água, luz, e outros serviços públicos.
 
 ### Pix cobrança
@@ -54,4 +56,10 @@ Conheça mais sobre o Pix, [leia esta matéria do Banco Central](https://www.bcb
 ### Pix Saque e Pix Troco
 
 **Pix Saque**: você pode retirar dinheiro em estabelecimentos comerciais que oferecem o serviço Pix Saque. Funciona como um saque em caixas eletrônicos, mas usando o Pix;
+
 **Pix Troco**: ao realizar um pagamento em um comércio, você pode solicitar um valor maior do que o da compra e receber a diferença em dinheiro.
+
+Próximos artigos:
+
+- [Como configurar sua chave?](/text/2-como-configurar-sua-chave.md)
+- [Pix e segurança digital](/text/3-pix-e-seguranca.md)

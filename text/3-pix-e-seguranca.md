@@ -42,3 +42,7 @@ Entender os diferentes tipos de golpes e como se proteger é a primeira linha de
 > **Quer saber mais?**
 > 
 >  No artigo [Como evitar cair no golpe do pix](https://blog.itau.com.br/artigos/como-evitar-cair-no-golpe-do-pix-falso), o Banco Itaú detalha maiores procedimentos.
+
+Próximo artigo:
+
+- [Acompanhe notícias sobre o pix](/text/4-noticias-pix.md)
