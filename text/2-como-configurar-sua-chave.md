@@ -2,7 +2,7 @@
 
 ![config-pix](../img/ima-como-conf-sua-chave.png)
 **Figura II:** Configurando sua chave Pix.
-
+_Fonte: canva.com_
 ----
 
 Configurar uma chave Pix é um processo **simples e rápido**, que pode ser feito **diretamente pelo aplicativo do seu banco**. 
@@ -12,6 +12,9 @@ Configurar uma chave Pix é um processo **simples e rápido**, que pode ser feit
 
 ![pass-config-pix](/img/pass-config-pix.png)
 **Figura III:** Passos para configuração da sua chave Pix.
+_Fonte: do autor._
+
+
 
 **1. Acesse o Aplicativo do Banco**
 
@@ -26,8 +29,11 @@ O banco pode te mostrar as opções de chaves que você pode configurar: CPF/CNP
 **3. Escolha o Tipo de Chave Pix**
 
 **CPF/CNPJ:** escolha essa opção se quiser usar seu CPF (para pessoa física) ou CNPJ (para empresas) como chave Pix;
+
 **E-mail:** insira o endereço de e-mail que deseja usar como chave Pix;
+
 **Número de Telefone:** insira o número do seu celular;
+
 **Chave Aleatória:** se preferir não usar dados pessoais, você pode gerar uma chave aleatória, que será uma sequência única de caracteres fornecida pelo banco.
 
 **4. Confirme o Cadastro**

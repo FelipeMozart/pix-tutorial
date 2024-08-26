@@ -2,6 +2,7 @@
 
 ![o-que-e-pix](../img/ima-o-que-e-pix.png)
 **Figura I:** Descubra o que é o Pix.
+_Fonte: canva.com_
 
 
 -----
