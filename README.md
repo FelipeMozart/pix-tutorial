@@ -2,7 +2,7 @@
 
 Pix **é um sistema de pagamento instantâneo criado pelo Banco Central do Brasil**, lançado em novembro de 2020.
 
-![para o readme](/img/ima-reademe.png)
+![mulher branca de braços cruzados e feliz para boas vindas a esse portal](/img/ima-reademe.png)
 **Figura I:** Seu portal do pix.
 _Fonte: canva.com_
 

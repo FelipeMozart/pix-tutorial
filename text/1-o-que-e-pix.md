@@ -1,6 +1,6 @@
 # O que é Pix?
 
-![o-que-e-pix](../img/ima-o-que-e-pix.png)
+![mulher branca com uma mão no rosto e outra no celular para esclarecer o que e pix](../img/ima-o-que-e-pix.png)
 **Figura II:** Descubra o que é o Pix. _Fonte: canva.com_
 
 

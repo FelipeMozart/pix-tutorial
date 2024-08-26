@@ -1,7 +1,7 @@
 # Como configurar minha chave pix?
 
 
-![config-pix](../img/ima-como-conf-sua-chave.png)
+![mulher branca com celular em uma mão e outra mão está com gesto de felicidade para finalizar a configuração d achave pix](../img/ima-como-conf-sua-chave.png)
 **Figura III:** Configurando sua chave Pix. _Fonte: canva.com_
 
 ----
@@ -11,7 +11,7 @@ Configurar uma chave Pix é um processo **simples e rápido**, que pode ser feit
 
 ## Passo a passo
 
-![pass-config-pix](/img/pass-config-pix.png)
+![imagem exibe 5 telas consecutivas sobre como configurar a chave, a primeira tela do app do seu banco e você clica na operação pix, a segunda exibe a seleção do menu consiguração, em seguida na terceira tela a seleção do formato da sua chave, a quarta tela exibe a inserção dos dados da sua chave e, por último, a tela de sucesso](/img/pass-config-pix.png)
 **Figura IV:** Passos para configuração da sua chave Pix.
 
 _Fonte: do autor._

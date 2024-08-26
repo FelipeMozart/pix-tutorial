@@ -1,6 +1,6 @@
 # Acompanhe as últimas notícias sobre o Pix
 
-![pix-e-protecao](/img/ima-noticia-pix.png)
+![mulher branca acessando as últimas notícias sobre pix](/img/ima-noticia-pix.png)
 **Figura VI:** Notícias sobre pix.
 _Fonte: canva.com_
 

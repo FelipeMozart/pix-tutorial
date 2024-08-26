@@ -1,7 +1,7 @@
 # Pix e Segurança Digital
 
 
-![pix-e-protecao](../img/ima-protecao-pix.png)
+![mulher branca olhando para o celular para ler e entender sobre segurança no pix](../img/ima-protecao-pix.png)
 **Figura V:** Seu pix protegido.
 _Fonte: canva.com_
 
